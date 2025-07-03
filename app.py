@@ -30,7 +30,7 @@ from mlxtend.frequent_patterns import apriori, association_rules
 # ----------------------------------------------------------------
 # CONFIG – edit these if the file name ever changes
 # ----------------------------------------------------------------
-FILE_NAME      = "Anirudh_data.xlsx"
+FILE_NAME      = "Anirudh' data set.xlsx"
 PREFERRED_SHEET = "Dataset (2)"      # try this first, fall back if missing
 
 st.set_page_config(page_title="Walmart Sales Intelligence",
